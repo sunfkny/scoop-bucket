@@ -1,12 +1,12 @@
 {
-    "version": "2.35.17",
+    "version": "2.35.19",
     "description": "Portable build of AWS CLI v2 extracted from the official MSI package.",
     "homepage": "https://github.com/sunfkny/aws-cli-v2-windows-portable",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sunfkny/aws-cli-v2-windows-portable/releases/download/v2.35.17/aws-cli-v2-windows-portable-2.35.17.7z",
-            "hash": "cb401843f50d1b8648566c0df9f5eea268d56449fe821c3cab6fd2b598ca5272"
+            "url": "https://github.com/sunfkny/aws-cli-v2-windows-portable/releases/download/v2.35.19/aws-cli-v2-windows-portable-2.35.19.7z",
+            "hash": "cecb68b4ad4ef21a3b85988f6dc3112d3bb735e6391638bf49a70bb4881ad1ef"
         }
     },
     "bin": [
